@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+This is a Text RPG written in Java back in May of 2012 to get familiar with it as a viable platform for game development, as well as use multiple classes.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+HOW TO START THIS PROJECT: Type the following into your terminal (whilst in the project path): 
+
+javac Prologue.java
+java Prologue
+
+AUTHORS: Gabriel Feijo & Nathan Raatz
