@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mechanics()
+comment1.params=prot\ foe
+comment1.target=boolean\ Battle(Character,\ Enemy)
+comment1.text=public\ void\ Tutorial()\ {\n\ \ \ \ \ \ \ \ System.out.println("Welcome\ to\ the\ battle\ screen\!\ Let's\ have\ a\ run-down\ on\ combat,\ shall\ we?");\n\ \ \ \ \ \ \ \ System.out.println("Combat\ works\ in\ a\ turn-based\ fashion.\ \\n");\n\ \ \ \ \ \ \ \ System.out.println("You\ and\ your\ opponent\ both\ start\ with\ 100\ health\ points,\ \\n");\n\ \ \ \ \ \ \ \ System.out.println("And\ you\ both\ have\ access\ to\ heavy\ and\ light\ attacks.\ \\n");\n\ \ \ \ \ \ \ \ System.out.println("Light\ attacks\ cause\ the\ least\ damage,\ but\ have\ less\ chances\ of\ missing.\ \\n");\n\ \ \ \ \ \ \ \ System.out.println("Heavy\ attacks\ cause\ the\ most\ damage,\ but\ have\ a\ higher\ chance\ of\ missing.\ \\n");\n\ \ \ \ \ \ \ \ System.out.println("On\ average,\ enemies\ will\ be\ stronger\ and\ smarter\ than\ you.\ However,\ worry\ not\!\ \\n");\n\ \ \ \ \ \ \ \ System.out.println("For\ you\ see,\ you\ have\ access\ to\ a\ health\ potion\ once\ per\ battle.\ \\n");\n\ \ \ \ \ \ \ \ System.out.println("This\ potion\ restores\ 25\ health\ points\ when\ used.\ \\n");\n\ \ \ \ \ \ \ \ System.out.println("In\ this\ regard,\ the\ enemy\ gets\ zilch.\ Take\ that,\ vile\ fiend\!\ \\n");\n\ \ \ \ \ \ \ \ System.out.println("Okay,\ enough\ gabbing.\ LET\ THE\ BATTLE\ BEGIN\!\ \\n");\n}
+comment2.params=prot\ foe
+comment2.target=void\ prolightCombat(Character,\ Enemy)
+comment3.params=prot\ foe
+comment3.target=void\ proheavyCombat(Character,\ Enemy)
+comment4.params=prot\ foe
+comment4.target=void\ enemylightCombat(Character,\ Enemy)
+comment5.params=prot\ foe
+comment5.target=void\ enemyheavyCombat(Character,\ Enemy)
+comment6.params=
+comment6.target=void\ potionSystem()
+numComments=7

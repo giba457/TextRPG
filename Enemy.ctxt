@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemy()
+comment1.params=
+comment1.target=int\ getStrength()
+comment1.text=\n\ public\ int\ getHealth()\ {\n\ \ \ \ \ \ \ return\ health;\n\ \ \ }\n
+comment2.params=
+comment2.target=int\ getEndurance()
+numComments=3

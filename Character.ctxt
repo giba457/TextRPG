@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nm
+comment0.target=Character(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getHealth()
+comment3.params=
+comment3.target=int\ getStrength()
+comment4.params=
+comment4.target=int\ getEndurance()
+comment5.params=oPoints
+comment5.target=void\ addOffenseBoost(int)
+comment6.params=dPoints
+comment6.target=void\ addDefenseBoost(int)
+comment7.params=
+comment7.target=void\ Die()
+numComments=8
